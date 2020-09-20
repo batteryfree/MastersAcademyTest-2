@@ -4,10 +4,10 @@
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
   padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #356;
-  border-radius: 5px;
 }
 
 .form {
